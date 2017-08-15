@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++ Programming", "C++ Programming\C++ Programming.vcxproj", "{2A592C31-B533-4232-A2D7-8D1F1B1858EE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Logarithm Tables", "Logarithm Tables\Logarithm Tables.vcxproj", "{C1A286BA-2A25-42A7-8F3E-5CB7E9A3FCE0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Patterns", "Patterns\Patterns.vcxproj", "{A4A7EF75-63C2-44F0-8F13-5F587CF53D1E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calender", "Calender\Calender.vcxproj", "{BB96A1CA-9010-47FE-94BF-3BE57E058B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A592C31-B533-4232-A2D7-8D1F1B1858EE}.Debug|x64.ActiveCfg = Debug|x64
+		{2A592C31-B533-4232-A2D7-8D1F1B1858EE}.Debug|x64.Build.0 = Debug|x64
+		{2A592C31-B533-4232-A2D7-8D1F1B1858EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A592C31-B533-4232-A2D7-8D1F1B1858EE}.Debug|x86.Build.0 = Debug|Win32
+		{2A592C31-B533-4232-A2D7-8D1F1B1858EE}.Release|x64.ActiveCfg = Release|x64
+		{2A592C31-B533-4232-A2D7-8D1F1B1858EE}.Release|x64.Build.0 = Release|x64
+		{2A592C31-B533-4232-A2D7-8D1F1B1858EE}.Release|x86.ActiveCfg = Release|Win32
+		{2A592C31-B533-4232-A2D7-8D1F1B1858EE}.Release|x86.Build.0 = Release|Win32
+		{C1A286BA-2A25-42A7-8F3E-5CB7E9A3FCE0}.Debug|x64.ActiveCfg = Debug|x64
+		{C1A286BA-2A25-42A7-8F3E-5CB7E9A3FCE0}.Debug|x64.Build.0 = Debug|x64
+		{C1A286BA-2A25-42A7-8F3E-5CB7E9A3FCE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1A286BA-2A25-42A7-8F3E-5CB7E9A3FCE0}.Debug|x86.Build.0 = Debug|Win32
+		{C1A286BA-2A25-42A7-8F3E-5CB7E9A3FCE0}.Release|x64.ActiveCfg = Release|x64
+		{C1A286BA-2A25-42A7-8F3E-5CB7E9A3FCE0}.Release|x64.Build.0 = Release|x64
+		{C1A286BA-2A25-42A7-8F3E-5CB7E9A3FCE0}.Release|x86.ActiveCfg = Release|Win32
+		{C1A286BA-2A25-42A7-8F3E-5CB7E9A3FCE0}.Release|x86.Build.0 = Release|Win32
+		{A4A7EF75-63C2-44F0-8F13-5F587CF53D1E}.Debug|x64.ActiveCfg = Debug|x64
+		{A4A7EF75-63C2-44F0-8F13-5F587CF53D1E}.Debug|x64.Build.0 = Debug|x64
+		{A4A7EF75-63C2-44F0-8F13-5F587CF53D1E}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4A7EF75-63C2-44F0-8F13-5F587CF53D1E}.Debug|x86.Build.0 = Debug|Win32
+		{A4A7EF75-63C2-44F0-8F13-5F587CF53D1E}.Release|x64.ActiveCfg = Release|x64
+		{A4A7EF75-63C2-44F0-8F13-5F587CF53D1E}.Release|x64.Build.0 = Release|x64
+		{A4A7EF75-63C2-44F0-8F13-5F587CF53D1E}.Release|x86.ActiveCfg = Release|Win32
+		{A4A7EF75-63C2-44F0-8F13-5F587CF53D1E}.Release|x86.Build.0 = Release|Win32
+		{BB96A1CA-9010-47FE-94BF-3BE57E058B67}.Debug|x64.ActiveCfg = Debug|x64
+		{BB96A1CA-9010-47FE-94BF-3BE57E058B67}.Debug|x64.Build.0 = Debug|x64
+		{BB96A1CA-9010-47FE-94BF-3BE57E058B67}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB96A1CA-9010-47FE-94BF-3BE57E058B67}.Debug|x86.Build.0 = Debug|Win32
+		{BB96A1CA-9010-47FE-94BF-3BE57E058B67}.Release|x64.ActiveCfg = Release|x64
+		{BB96A1CA-9010-47FE-94BF-3BE57E058B67}.Release|x64.Build.0 = Release|x64
+		{BB96A1CA-9010-47FE-94BF-3BE57E058B67}.Release|x86.ActiveCfg = Release|Win32
+		{BB96A1CA-9010-47FE-94BF-3BE57E058B67}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
